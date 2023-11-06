@@ -1,1 +1,1 @@
-this is demo file for git & gihun
+this is demo file for git & gihub
